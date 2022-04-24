@@ -19,7 +19,7 @@ Thanks to the tight collaboration with the DIDA network and OpenFlexure project,
 
 ## Contributing
 
-Open and multy faceted contribution to this project are highly encouraged! Contributrions of any form following personnal interest, availability, or skill can be made through this project repository on GitHub. All participants are expected to follow our [community code of conduct](https://github.com/Mboalab/Mboalab_Outreachy-May-Aug-2022/blob/main/Community%20Norms/README.md) and check the [Contributions Guidelines]( and the list of details task via Technical Documentation.
+Open and multy faceted contribution to this project are highly encouraged! Contributrions of any form following personnal interest, availability, or skill can be made through this project repository on GitHub. All participants are expected to follow our [community code of conduct](https://github.com/Mboalab/Mboalab_Outreachy-May-Aug-2022/blob/main/Community%20Norms/README.md) and check the Contributions Guidelines and the list of details task via Technical Documentation to be made available soon.
 
 ## Get in touch
 
